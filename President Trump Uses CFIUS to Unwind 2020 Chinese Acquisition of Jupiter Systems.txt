@@ -1,0 +1,30 @@
+President Trump Uses CFIUS to Unwind 2020 Chinese Acquisition of Jupiter Systems
+17 July 2025
+View the Debrief
+Share
+On July 8, 2025, President Trump issued an Executive Order prohibiting the acquisition of Jupiter Systems, LLC (“Jupiter Systems”)—an audiovisual equipment technology company serving critical infrastructure and military-related customers in the United States—by Suirui International Co., Limited, a Hong Kong-based subsidiary of Suirui Group Co., Ltd., a Chinese entity (together, “Suirui”). The acquisition had been completed more than five years ago, on February 28, 2020, meaning that the prohibition requires an unwinding of the transaction. This is the first Executive Order of the second Trump presidency prohibiting a transaction on national security grounds.
+
+The decision to prohibit the transaction followed a review by the Committee on Foreign Investment in the United States (“CFIUS”), which is led by the U.S. Department of the Treasury. The review found “credible evidence” suggesting that Suirui's continued ownership of Jupiter posed a threat to U.S. national security. According to a statement released by the Treasury Department, CFIUS identified potential threats arising from the use of Jupiter Systems’ products in military and critical infrastructure environments, which could be compromised through Suirui’s foreign control. Given the sensitive nature and application of Jupiter Systems’ technology and the geopolitical concerns surrounding the People’s Republic of China (“PRC”) and its special administrative regions like Hong Kong, the Trump administration acted to mitigate the risk of unauthorized access to non-public source code, technical data, and customer information that could undermine U.S. national security interests.
+
+The Executive Order prohibiting the transaction was issued under the authority granted by Section 721 of the Defense Production Act of 1950 (50 U.S.C. § 4565). Section 721 empowers the President to order divestitures, prohibit future dealings and impose other controls to mitigate national security risks. The order imposes a comprehensive set of mandates and deadlines for the unwinding of Suirui’s acquisition of Jupiter Systems:
+
+120-Day Deadline: Suirui and its affiliates must divest all ownership and interests in Jupiter Systems within 120 calendar days from the date of the order (i.e., by November 5, 2025), unless extended by CFIUS.
+Divestment Scope: The divestiture must include all tangible and intangible assets, including intellectual property, non-public source code associated with Jupiter products and customer contracts, except for certain assets of Jupiter Systems’ Asia entities that were acquired post-transaction and verified by CFIUS.
+Access Prohibition: Effective immediately as of the date of the Executive Order, Suirui and its affiliates are barred from accessing Jupiter Systems’ U.S. operations, systems, non-public data and facilities, unless approved by CFIUS and, not later than seven days after the date of the order, Jupiter Systems must put in place measures to ensure that such access does not occur.
+Restrictions on Asset Transfers: Until divestment is complete, Suirui may not dissolve, reorganize, or transfer assets that would undermine compliance. Transfers to Jupiter Systems’ Asia affiliate entities and transfers outside the United States are also prohibited.
+Certification Requirements: Once divestment is complete, Suirui must certify in writing that all steps have been taken and confirm the destruction or transfer of all restricted intellectual property.
+Approval of Transferee: Any sale or transfer of Jupiter Systems interests must be pre-notified to CFIUS, and may not proceed for at least 30 days, during which CFIUS can object based on the buyer’s ties, compliance record or U.S. citizenship status.
+Weekly Compliance Updates: Until divestment is complete, Suirui and Jupiter Systems must submit weekly compliance certifications and progress reports to CFIUS.
+Enforcement Mechanisms: CFIUS is authorized to inspect premises and audit systems and interview employees to ensure compliance. The Attorney General is also empowered to enforce the order under Section 721(d)(3).
+Key Takeaways and Implications. This Executive Order signals the Trump administration’s robust posture toward national security threats posed by foreign ownership, especially by those with Chinese ownership or other connections to the PRC. Notably, the administration acted retroactively, effectively unwinding a transaction that had closed over five years earlier. This move underscores that timing alone is no shield for foreign investment in U.S. businesses—CFIUS and the President retain broad powers to act whenever a credible threat to national security is discovered.
+
+The decision also reflects a willingness to leverage the full scope of Section 721 authority, including mandatory divestiture, strict access controls and the usage of audits and legal enforcement. The parameters of the divestiture send a clear message the Trump administration is willing to unwind foreign investments, perhaps even those that had once been welcomed, given the rapidly evolving geopolitical and security landscape.
+
+Companies—particularly those with products and services tied to national defense, critical industries (which the Trump administration has notably expanded to include agriculture) or sensitive technologies—should carefully evaluate their ownership structures and assess any foreign entanglements, particularly those with Chinese entities. Foreign investors and U.S. businesses alike must remain vigilant in identifying and mitigating potential security issues. The risk of regulatory intervention on the grounds of national security is real, even years after a deal closes.
+
+The authors thank summer associate Gonzalo Núñez for his contributions to this publication.
+
+ 
+
+This publication is for general information purposes only. It is not intended to provide, nor is it to be used as, a substitute for legal advice. In some jurisdictions it may be considered attorney advertising.
+
